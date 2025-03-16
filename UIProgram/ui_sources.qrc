@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>ui_imgs/icons/aim.png</file>
+    <file>ui_imgs/icons/save.png</file>
+    <file>ui_imgs/icons/quit.png</file>
+    <file>ui_imgs/icons/camera.png</file>
+    <file>ui_imgs/icons/folder.png</file>
+    <file>ui_imgs/icons/img.png</file>
+    <file>ui_imgs/icons/video.png</file>
+    <file>ui_imgs/12.png</file>
+  </qresource>
+  <qresource prefix="bgs"/>
+
+</RCC>
