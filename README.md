@@ -1,4 +1,4 @@
-# WencyAA-Qualcomm-Hackathon
+![image](https://github.com/user-attachments/assets/6c4027cb-217c-4da8-af47-45121b87618b)# WencyAA-Qualcomm-Hackathon
 
 # Traffic Sign Detection System 🚦  
  
@@ -37,8 +37,9 @@ Traffic Sign Detection System is a real-time AI-powered application that detects
 ---
  
 ## **Preview**  
- 
- ![img_1.png](img_1.png)  
+ ![image](https://github.com/user-attachments/assets/603fa217-dc29-42a7-9124-3661d2d34829)
+
+
 ---
  
 ## **Installation**  
