@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/6c4027cb-217c-4da8-af47-45121b87618b)# WencyAA-Qualcomm-Hackathon
+# WencyAA-Qualcomm-Hackathon
 
 # Traffic Sign Detection System 🚦  
  
